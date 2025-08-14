@@ -1,22 +1,22 @@
-[![Project card](https://cdn.upload.systems/uploads/HoopGRRJ.webp)](https://aqua.falcxxdev.cyou)
-![Netlify Status](https://api.netlify.com/api/v1/badges/99399f4f-b1fa-4206-aa8c-b35c280605ef/deploy-status) ![CI Status](https://img.shields.io/github/actions/workflow/status/gifaldyazkaa/aqua-fanpage/check.yml?branch=master&label=CI&logo=github-actions&style=flat&labelColor=black) ![Repo Size](https://img.shields.io/github/repo-size/gifaldyazkaa/aqua-fanpage?logo=github&style=flat&labelColor=black)
+[![Project card](https://socialify.git.ci/azukashi/minatoaqua/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Faqua.micin.life%2Ffavicon.png&name=1&owner=1&pattern=Brick+Wall&theme=Dark)](https://aqua.micin.life)
+![CI Status](https://img.shields.io/github/actions/workflow/status/gifaldyazkaa/aqua-fanpage/check.yml?branch=master&label=CI&logo=github-actions&style=flat&labelColor=black) ![Repo Size](https://img.shields.io/github/repo-size/gifaldyazkaa/aqua-fanpage?logo=github&style=flat&labelColor=black)
 
 ## ➡️ Developing
 
 ### 🛠️ Requirements
 
-A node.js >= 16.12.0 setup with [pnpm](https://pnpm.io) is recommended.
+A [Bun](https://bun.sh) >= 1.2.0 setup is recommended.
 
 ### 📦 Install dependencies
 
 ```sh
-$ pnpm install
+$ bun install
 ```
 
 ### 🚀 Start development server
 
 ```sh
-$ pnpm run dev
+$ bun run dev
 #
 #  VITE v4.x.x  ready in xx ms
 #
